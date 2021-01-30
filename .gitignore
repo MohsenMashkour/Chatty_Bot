@@ -1,0 +1,8 @@
+# Project exclude paths
+/.gradle/
+/Problems/The first position of the largest element/out/
+/Problems/The first position of the largest element/out/production/classes/
+/Problems/The sequence 1 2 2 3 3 3/out/
+/Problems/The sequence 1 2 2 3 3 3/out/production/classes/
+/Simple Chatty Bot/task/out/
+/Simple Chatty Bot/task/out/production/classes/

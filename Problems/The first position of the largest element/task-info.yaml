@@ -1,0 +1,21 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun main() {
+        // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/4669#comment
+status: Failed
+feedback:
+  message: "Failed test #4 of 6. Runtime error\n\nError:\nException in thread \"main\"\
+    \ java.lang.NullPointerException\n\tat MainKt.main(main.kt:10)\n\tat MainKt.main(main.kt)\n\
+    \tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\n\
+    \tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\n\
+    \tat java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\n\
+    \tat java.base/java.lang.reflect.Method.invoke(Method.java:566)\n\tat org.jetbrains.kotlin.runner.AbstractRunner.run(runners.kt:64)\n\
+    \tat org.jetbrains.kotlin.runner.Main.run(Main.kt:149)\n\tat org.jetbrains.kotlin.runner.Main.main(Main.kt:159)\n"
+  time: Sat, 30 Jan 2021 14:26:40 UTC
+record: -1
